@@ -1,2 +1,2 @@
-# Java-Collections
+# JavaCollections
 self-study
