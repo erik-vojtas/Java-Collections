@@ -8,3 +8,10 @@ https://static.javatpoint.com/images/java-collection-hierarchy.png
 MainMobilePhone.java
 MobilePhone.java
 Contact.java
+
+
+#Bank App:
+MainBank.java
+Bank.java
+Branch.java
+Customer.java
